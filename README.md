@@ -5,7 +5,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-campos-583417271/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanLemee)
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanLemee&show_icons=true&theme=radical)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanLemee&show_icons=true&theme=cobalt)
 
 ## Technologies that I use on a daily basis. 
 
