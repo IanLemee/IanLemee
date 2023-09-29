@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700">
 
 - 🔭 I’m currently working on [Spotify Clone](https://github.com/IanLemee/SpotifyCloneAngular)
 
