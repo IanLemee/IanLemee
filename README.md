@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ian Francisco
 ## Passionate about technology, curious, and eager to learn every day.
 
-<img align="right" width="400" src="[https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2a9KJ0zAJ1y5IsdR8nzpDS&ust=1696037692106000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCNlPTWzoEDFQAAAAAdAAAAABAE)">
+<img align="right" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700">
 
 ## Social medias
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-campos-583417271/)
