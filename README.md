@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Spotify Clone](https://github.com/IanLemee/SpotifyCloneAngular)
 
-- 🌱 I’m currently learning **Angular and Spring**
+- 🌱 I’m currently learning **Watch Store**
 
 - 📫 How to reach me **ianlemee@hotmail.com**
 
