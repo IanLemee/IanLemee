@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ianlemee&show_icons=true&locale=en" alt="ianlemee" /></p>
 
-<p align="center" style="padding-top: 20px;">
+<p align="center" style="padding-top: 20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianlemee&show_icons=true&locale=en&layout=compact" alt="ianlemee" />
 </p>
 
