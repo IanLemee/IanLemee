@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [Watch Store](https://github.com/IanLemee/SpotifyCloneAngular)
+- 🔭 I’m currently working on [Watch Store](https://github.com/IanLemee/WatchStore)
 
 - 🌱 I’m currently learning **Angular and Spring**
 
