@@ -41,7 +41,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em backend com Java e Spr
 
 ### 📚 Em Aprendizado Contínuo
 
-- 🎯 Aprofundando em Java através da Maratona Java DevDojo
 - 🌱 Estudando arquitetura de microsserviços com Spring Cloud
 - 📖 Explorando padrões de design e boas práticas
 - 🔧 Praticando TDD e Clean Code
@@ -52,13 +51,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em backend com Java e Spr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianlemee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianlemee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### 🎯 Objetivos 2024/2025
-
-- [ ] Conseguir primeira vaga como desenvolvedor Jr/Estágio
-- [ ] Certificação AWS Cloud Practitioner
-- [ ] Contribuir para projetos open source
-- [ ] Desenvolver projeto completo com microsserviços
 
 ---
 
